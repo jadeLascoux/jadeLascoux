@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jadeLascoux
+- 👀 I’m interested in cybersecutity 
+- 🌱 I'm currently learning POO programming and to learn I'm working on a project that consists of creating an application and database in C++ language for a client
